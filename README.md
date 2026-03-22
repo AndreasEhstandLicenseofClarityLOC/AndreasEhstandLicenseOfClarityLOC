@@ -1,16 +1,56 @@
-## Hi there 👋
+# Andreas Ehstand
 
-<!--
-**AndreasEhstandLicenseofClarityLOC/AndreasEhstandLicenseOfClarityLOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (2,000+ phenomena) | From court to code to compendium
 
-Here are some ideas to get you started:
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3773--7796-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-3773-7796)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18898911-blue?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.18898911)
+[![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nd/4.0/)
+[![npm](https://img.shields.io/badge/npm-neomanitai--terms-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/neomanitai-terms)
+[![Website](https://img.shields.io/badge/Web-augmanitai.com-success?style=flat-square)](https://augmanitai.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Creator of the **AUGMANITAI framework** — a systematic approach to identifying, classifying, and naming human experiences in AI interaction. The framework comprises **7 volumes, 21 foundational axioms, 9 experiential dimensions, 12 interaction profiles, and 2,000+ individually identified phenomena**. Grounded in applied terminology science (ISO 704/1087/30042). Published open-access under CC BY-ND 4.0.
+
+In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-of-concept terms. The AUGMANITAI framework — developed independently — contains over 2,000.
+
+**Academic background:** Former Distinguished Research Associate at TU Dortmund (Lehrstuhl für Allgemeine Pädagogik, Prof. Dr. Sabine Hornberg). Research Associate at University of Bayreuth. Quantitative methods training through TU Dortmund's IFS doctoral programme. One of the youngest holders of the Zertifikat Hochschullehre Bayern. Staatsexamen Bavaria (German, Sports, Informatics).
+
+**Origin:** 25+ years as a professional tennis and padel coach (Bundesliga level) — systematic performance factor analysis in competitive sport revealed the same categories of recurring phenomena in human-AI interaction. The difference: in sport, every phenomenon had a name. In AI interaction, none did.
+
+---
+
+## AUGMANITAI Framework
+
+A single-author compendium of 2,000+ individually identified phenomena, bridging educational science, linguistics, and AI research.
+
+| Resource | Link |
+|----------|------|
+| Website | [augmanitai.com](https://augmanitai.com) |
+| Repository | [augmanitai-tools](https://github.com/AndreasEhstandLicenseOfClarityLOC/augmanitai-tools) |
+| DOI | [10.5281/zenodo.18898911](https://doi.org/10.5281/zenodo.18898911) |
+| npm | [neomanitai-terms](https://www.npmjs.com/package/neomanitai-terms) |
+| PyPI | [neomanitai-terms](https://pypi.org/project/neomanitai-terms) |
+| HuggingFace | [AndreasEhstand](https://huggingface.co/AndreasEhstand) |
+| Wikidata | [Q138522830](https://www.wikidata.org/wiki/Q138522830) |
+| License | CC BY-ND 4.0 |
+
+**Formats:** SKOS (Turtle, JSON-LD, RDF/XML), Schema.org JSON-LD, CITATION.cff, CSV, interactive term browser, periodic table visualization.
+
+---
+
+## Links
+
+| Platform | URL |
+|----------|-----|
+| ORCID | [0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796) |
+| Website | [augmanitai.com](https://augmanitai.com) |
+| LinkedIn | [andreas-ehstand](https://de.linkedin.com/in/andreas-ehstand-11a590a8) |
+| Medium | [@ehstand.schule](https://medium.com/@ehstand.schule) |
+| HuggingFace | [AndreasEhstand](https://huggingface.co/AndreasEhstand) |
+
+---
+
+*"New words 4 new worlds. Stay human."*
