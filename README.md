@@ -1,9 +1,9 @@
 # Andreas Ehstand
 
-Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (2,000+ phenomena) | From court to code to compendium
+Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (1,000+ terms) | From court to code to compendium
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3773--7796-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-3773-7796)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18898911-blue?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.18898911)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19178907-blue?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.19178907)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![npm](https://img.shields.io/badge/npm-neomanitai--terms-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/neomanitai-terms)
 [![Website](https://img.shields.io/badge/Web-augmanitai.com-success?style=flat-square)](https://augmanitai.com)
@@ -15,6 +15,8 @@ Researcher bridging educational science, linguistics & AI | Creator of the AUGMA
 Creator of the **AUGMANITAI framework** — a systematic approach to identifying, classifying, and naming human experiences in AI interaction. The framework comprises **7 volumes, 21 foundational axioms, 9 experiential dimensions, 12 interaction profiles, and 2,000+ individually identified phenomena**. Grounded in applied terminology science (ISO 704/1087/30042). Published open-access under CC BY-NC-ND 4.0.
 
 In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-of-concept terms. The AUGMANITAI framework — developed independently — contains over 2,000.
+
+**Research focus:** Semantic System Programming (SSP), linguistic neologism research at the human-AI interface, and LLM output pattern analysis (AUGMANITAI Protocol).
 
 **Academic background:** Former Distinguished Research Associate at TU Dortmund (Lehrstuhl für Allgemeine Pädagogik, Prof. Dr. Sabine Hornberg). Research Associate at University of Bayreuth. Quantitative methods training through TU Dortmund's IFS doctoral programme. One of the youngest holders of the Zertifikat Hochschullehre Bayern. Staatsexamen Bavaria (German, Sports, Informatics).
 
@@ -30,7 +32,8 @@ A single-author compendium of 2,000+ individually identified phenomena, bridging
 |----------|------|
 | Website | [augmanitai.com](https://augmanitai.com) |
 | Repository | [augmanitai-tools](https://github.com/AndreasEhstandLicenseOfClarityLOC/augmanitai-tools) |
-| DOI | [10.5281/zenodo.18898911](https://doi.org/10.5281/zenodo.18898911) |
+| DOI (v6) | [10.5281/zenodo.19178907](https://doi.org/10.5281/zenodo.19178907) |
+| DOI (all versions) | [10.5281/zenodo.19084807](https://doi.org/10.5281/zenodo.19084807) |
 | npm | [neomanitai-terms](https://www.npmjs.com/package/neomanitai-terms) |
 | PyPI | [neomanitai-terms](https://pypi.org/project/neomanitai-terms) |
 | HuggingFace | [AndreasEhstand](https://huggingface.co/AndreasEhstand) |
@@ -50,6 +53,8 @@ A single-author compendium of 2,000+ individually identified phenomena, bridging
 | LinkedIn | [andreas-ehstand](https://de.linkedin.com/in/andreas-ehstand-11a590a8) |
 | Medium | [@ehstand.schule](https://medium.com/@ehstand.schule) |
 | HuggingFace | [AndreasEhstand](https://huggingface.co/AndreasEhstand) |
+| Google Scholar | [Andreas Ehstand](https://scholar.google.com/citations?user=KOarq7AAAAAJ) |
+| Zenodo | [DOI 10.5281/zenodo.19178907](https://doi.org/10.5281/zenodo.19178907) |
 
 ---
 
