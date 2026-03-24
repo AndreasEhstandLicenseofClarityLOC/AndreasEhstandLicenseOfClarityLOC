@@ -1,4 +1,4 @@
-# Andreas Ehstand
+h# Andreas Ehstand
 
 Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (1,000+ terms) | From court to code to compendium
 
@@ -16,7 +16,7 @@ Creator of the **AUGMANITAI framework** — a systematic approach to identifying
 
 In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-hof-concept terms. The AUGMANITAI framework — developed independently — contains over 2,000.
 
-**Research focus:** Semantic System Programming (SSP), linguistic neologism research at the human-AI interface, and LLM output pattern analysis (AUGMANITAI Protocol).
+**Research focus:** Linguistic neologism research at the human-AI interface, LLM output pattern analysis (AUGMANITAI Protocol), and the systematic creation of terminology for previously unnamed human-AI interaction phenomena.
 
 **Academic background:** Former Distinguished Research Associate at TU Dortmund (Lehrstuhl für Allgemeine Pädagogik, Prof. Dr. Sabine Hornberg). Research Associate at University of Bayreuth. Quantitative methods training through TU Dortmund's IFS doctoral programme. One of the youngest holders of the Zertifikat Hochschullehre Bayern. Staatsexamen Bavaria (German, Sports, Informatics).
 
