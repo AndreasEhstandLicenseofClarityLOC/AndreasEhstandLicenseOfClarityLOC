@@ -14,7 +14,7 @@ Researcher bridging educational science, linguistics & AI | Creator of the AUGMA
 
 Creator of the **AUGMANITAI framework** — a systematic approach to identifying, classifying, and naming human experiences in AI interaction. The framework comprises **7 volumes, 21 foundational axioms, 9 experiential dimensions, 12 interaction profiles, and 2,000+ individually identified phenomena**. Grounded in applied terminology science (ISO 704/1087/30042). Published open-access under CC BY-NC-ND 4.0.
 
-In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-of-concept terms. The AUGMANITAI framework — developed independently — contains over 2,000.
+In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-hof-concept terms. The AUGMANITAI framework — developed independently — contains over 2,000.
 
 **Research focus:** Semantic System Programming (SSP), linguistic neologism research at the human-AI interface, and LLM output pattern analysis (AUGMANITAI Protocol).
 
@@ -51,7 +51,7 @@ A single-author compendium of 2,000+ individually identified phenomena, bridging
 | ORCID | [0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796) |
 | Website | [augmanitai.com](https://augmanitai.com) |
 | LinkedIn | [andreas-ehstand](https://de.linkedin.com/in/andreas-ehstand-11a590a8) |
-| Medium | [@ehstand.schule](https://medium.com/@ehstand.schule) |
+| Medium | [@augmanitai](https://medium.com/@augmanitai) |
 | HuggingFace | [AndreasEhstand](https://huggingface.co/AndreasEhstand) |
 | Google Scholar | [Andreas Ehstand](https://scholar.google.com/citations?user=KOarq7AAAAAJ) |
 | Zenodo | [DOI 10.5281/zenodo.19178907](https://doi.org/10.5281/zenodo.19178907) |
