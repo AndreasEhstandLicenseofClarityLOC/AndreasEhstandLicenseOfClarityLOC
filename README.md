@@ -1,4 +1,4 @@
-h# Andreas Ehstand
+# Andreas Ehstand
 
 Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (2,000+ terms) | Digitalbeauftragter CSU | From court to code to compendium
 
