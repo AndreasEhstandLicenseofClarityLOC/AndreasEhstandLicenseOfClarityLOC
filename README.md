@@ -1,6 +1,6 @@
 h# Andreas Ehstand
 
-Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (1,000+ terms) | From court to code to compendium
+Researcher bridging educational science, linguistics & AI | Creator of the AUGMANITAI framework (2,000+ terms) | Digitalbeauftragter CSU | From court to code to compendium
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3773--7796-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-3773-7796)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19178907-blue?style=flat-square&logo=zenodo)](https://doi.org/10.5281/zenodo.19178907)
