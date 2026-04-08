@@ -9,6 +9,9 @@ Discoverer of bidirectional semantic coordination between human cognition and ma
 
 ---
 
+> This repository serves as a transparent, timestamped priority reference for a fast-moving field.
+> All claims below are backed by DOI-registered publications and verifiable through ORCID 0009-0006-3773-7796.
+
 ## About
 
 Creator of the **AUGMANITAI research program** — the first and only comprehensive framework applying professional terminology science to human-AI interaction. Discoverer of **bidirectional semantic coordination**: the systematic, simultaneous expansion of the shared meaning space between human cognition and machine representation.
