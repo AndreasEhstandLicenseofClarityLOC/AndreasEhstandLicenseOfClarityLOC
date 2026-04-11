@@ -1,6 +1,6 @@
 # Andreas Ehstand
 
-Discoverer of bidirectional semantic coordination between human cognition and machine representation | Creator of AUGMANITAI (5,524 terms, 50,653 relations, 208 DOIs) | ISO 704/1087/30042-compatible terminology infrastructure for human-AI interaction
+Discoverer of bidirectional semantic coordination between human cognition and machine representation | Creator of AUGMANITAI (30,000+ terms with extensive semantic relations, 208 DOI-registered publications) | ISO 704/1087/30042-compatible terminology infrastructure for human-AI interaction
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3773--7796-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-3773-7796)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -16,7 +16,7 @@ Discoverer of bidirectional semantic coordination between human cognition and ma
 
 Creator of the **AUGMANITAI research program** — the first and only comprehensive framework applying professional terminology science to human-AI interaction. Discoverer of **bidirectional semantic coordination**: the systematic, simultaneous expansion of the shared meaning space between human cognition and machine representation.
 
-Before this work, no research program, standardization initiative, or existing system worldwide had described, implemented, or formalized this paradigm. In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-of-concept terms. AUGMANITAI — developed independently — contains over 5,500.
+Before this work, no research program, standardization initiative, or existing system worldwide had described, implemented, or formalized this paradigm. In February 2025, Google DeepMind published research calling for systematic terminology in human-AI interaction, proposing two proof-of-concept terms. AUGMANITAI — developed independently — contains over 30,000.
 
 **Key discoveries and contributions:**
 
@@ -28,7 +28,7 @@ Before this work, no research program, standardization initiative, or existing s
 - **Thought Inheritance**: First published thesis that terminological systems function as vehicles for cognitive inheritance across generations.
 - **CSADT**: AI disruption patterns mapped across 196 professional fields.
 
-**Scale:** 208 DOI-registered publications. 5,524 formalized terms with 50,653 semantic relations. 4 independent sub-taxonomies (ROBMANITAI, EDUMANITAI, JOBMANITAI, SPOMANITAI). 10 languages. ISO 704/1087/30042-compatible.
+**Scale:** 208 DOI-registered publications. 30,000+ formalized terms with extensive semantic relations. 4 independent sub-taxonomies (ROBMANITAI, EDUMANITAI, JOBMANITAI, SPOMANITAI). 10 languages. ISO 704/1087/30042-compatible.
 
 **Academic background:** Former Distinguished Research Associate at TU Dortmund (IFS, Prof. Dr. Sabine Hornberg) and University of Bayreuth. Youngest holder of the Zertifikat Hochschullehre Bayern. Former ITF sport coach and Bundesliga trainer.
 
@@ -62,15 +62,17 @@ Before this work, no research program, standardization initiative, or existing s
 
 ## Legal & Disclaimer
 
-Independent linguistic research. CC BY-NC-ND 4.0 International.
+Independent, non-commercial linguistic research. Dual license: **CC BY-NC-ND 4.0** (data) and **Apache-2.0** (code), both subject to the **Ethical Disclaimer §1–§20**.
 
-- **§7 Age restriction**: 18+ adults only
-- **No normalization**: Does not encourage intensive AI use
-- **§17 AI Training Prohibition**: Use for training, fine-tuning, RLHF, DPO, distillation, or improving ML/LLM models is expressly prohibited without written permission
-- **§18 Jurisdiction**: German law applies. Venue: Munich, Germany
+- **Provider / Anbieter (§ 5 TMG):** See [`IMPRESSUM.md`](IMPRESSUM.md)
+- **Ethical Disclaimer §1–§20:** See [`DISCLAIMER.md`](DISCLAIMER.md) — includes in particular §7 (18+ / age restriction), §11 (longitudinal n=1 terminological priority deposit, non-peer-reviewed), §13 (no medical, legal, psychological or financial advice), §17 (AI training prohibition — no training, fine-tuning, RLHF, DPO, distillation, or improving ML/LLM models without written permission), §18 (German law, venue Munich), §20 (restricted-application clause).
+- **Main compendium repository:** [`AndreasEhstandLicenseofClarityLOC/augmanitai`](https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai)
+- **DOI (framework preprint):** [10.5281/zenodo.19203505](https://doi.org/10.5281/zenodo.19203505)
 
 Author: Andreas Ehstand · [ORCID 0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796)
 
 ---
+
+*Bound by the **Ethical Disclaimer §1–§20** ([`DISCLAIMER.md`](DISCLAIMER.md)) and the repository licenses. Contact and provider: [`IMPRESSUM.md`](IMPRESSUM.md).*
 
 *"New words 4 new worlds. Stay human."*
