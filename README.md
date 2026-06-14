@@ -1,37 +1,29 @@
 # Andreas Ehstand
 
-Independent researcher documenting human–AI interaction terminology. ISO 704 / 1087 / 30042-inspired. Longitudinal self-observation, N=1.
+### Independent AI researcher · Originator of **NEOMANITAI** — the shared ontology for **embodied & multi-agent AI**: humans, robots, swarms, world models & **cognitive legacy**
 
-> **Scientific status.** All material is author-developed, self-documented, and not peer-reviewed. Content is timestamped via DOI deposits on Zenodo as a priority reference. Terms like "framework", "method", or "compendium" refer to author-developed constructs, not externally validated results.
+*"You cannot analyze what you cannot name."*
 
----
+For 25+ years I analyzed performance factors in elite sport, where every observable dynamic has a name — that is how you teach, measure and improve it. Working intensively with today's AI systems, I saw the same structural patterns between humans and machines: trust calibration, adaptation curves, authority displacement, confidence distortion. In sport they had names. In **human–AI interaction** they did not. So I named them.
 
-## About
+## NEOMANITAI / AUGMANITAI — a controlled vocabulary for the age of intelligent systems
 
-Author of a terminological compendium for the human–AI interface (ISO 704 / 1087 / 30042 as design goal). Independent, DOI-deposited on Zenodo. Not peer-reviewed.
+A bilingual (EN/DE), **DOI-published** terminology framework that defines, contextualizes and classifies **thousands of phenomena** across the full spectrum of intelligent systems — structured along **ISO 704 / 1087 / 30042** principles, in machine-readable formats. Built to span the systems that matter now: **embodied AI & humanoid robotics** · **robot swarms & multi-agent / agentic systems** · **foundation & world models** · **human–AI collaboration & teaming** · **cognitive legacy** (how knowledge, judgment and thinking transfer across people, systems and generations).
 
----
+When a leading AI lab publicly called for exactly this kind of systematic terminology for human–AI interaction (2025), the independently developed framework already defined thousands of such terms.
 
-## Repositories
+## Open science
 
-| Repository | Description |
-|-----------|-------------|
-| [neomanitai-terms](https://github.com/AndreasEhstandLicenseofClarityLOC/neomanitai-terms) | Terminology dataset, machine-readable formats |
-| [augmanitai](https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai) | Terminology framework documentation |
-| [neomanitai-first-words](https://github.com/AndreasEhstandLicenseofClarityLOC/neomanitai-first-words) | Descriptive terms — demo browser |
+| Where | Link |
+|---|---|
+| Website | https://augmanitai.com |
+| ORCID | 0009-0006-3773-7796 |
+| Reference DOI | https://doi.org/10.5281/zenodo.20161494 |
+| Wikidata | Q138634675 |
+| LinkedIn | in/andreas-ehstand |
 
----
-
-## Links
-
-| Platform | URL |
-|----------|-----|
-| ORCID | [0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796) |
+Everything is versioned, citable and permanently archived (priority deposits on Zenodo).
 
 ---
 
-## Legal & Disclaimer
-
-Independent, non-commercial linguistic research. CC BY-NC-ND 4.0 (data) / Apache-2.0 (code), subject to Ethical Disclaimer §1–§20.
-
-Author: Andreas Ehstand · [ORCID 0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796)
+*Descriptive, practitioner-grounded methodology · independent, non-commercial research · CC BY-NC-ND 4.0 (data) / Apache-2.0 (code). "Framework", "method" and "compendium" denote author-developed constructs.*
