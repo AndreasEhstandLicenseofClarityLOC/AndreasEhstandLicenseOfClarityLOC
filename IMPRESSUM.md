@@ -1,6 +1,6 @@
 # Impressum
 
-*Angaben gemäß § 5 TMG / Information according to § 5 German Telemedia Act*
+*Angaben gemäß § 5 DDG / Information according to § 5 German Digital Services Act (DDG)*
 
 ---
 
@@ -13,12 +13,12 @@ Deutschland / Germany
 
 ## Kontakt / Contact
 
-**E-Mail:** vogel05wolf05@gmail.com
+**E-Mail:** ehstand.schule@gmail.com
 **ORCID:** [0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796)
 
 ## Verantwortlich für den Inhalt / Responsible for content
 
-Gemäß § 55 Abs. 2 RStV / According to § 55 (2) RStV:
+Gemäß § 18 Abs. 2 MStV / According to § 18 (2) MStV:
 
 **Andreas Ehstand**, Anschrift wie oben.
 
