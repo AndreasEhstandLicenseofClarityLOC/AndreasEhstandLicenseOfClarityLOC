@@ -1,29 +1,33 @@
 # Andreas Ehstand
 
-### Independent AI researcher · Originator of **NEOMANITAI** — the shared ontology for **embodied & multi-agent AI**: humans, robots, swarms, world models & **cognitive legacy**
+### Independent researcher and author exploring human–AI interaction, thought and creative work
 
-*"You cannot analyze what you cannot name."*
+How does a thought change when we develop it in dialogue with AI? What remains when an idea becomes an image, a story or a sequence of instructions? These questions connect my work on interaction, terminology, creative practice and the transfer of knowledge.
 
-For 25+ years I analyzed performance factors in elite sport, where every observable dynamic has a name — that is how you teach, measure and improve it. Working intensively with today's AI systems, I saw the same structural patterns between humans and machines: trust calibration, adaptation curves, authority displacement, confidence distortion. In sport they had names. In **human–AI interaction** they did not. So I named them.
+## Start with a question
 
-## NEOMANITAI / AUGMANITAI — a controlled vocabulary for the age of intelligent systems
+[24 entry points into my public work](https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai/blob/main/research-index/START_HERE.md) connect concrete questions to papers, explanatory articles and catalogues. German questions are accompanied by English search labels.
 
-A bilingual (EN/DE), **DOI-published** terminology framework that defines, contextualizes and classifies **thousands of phenomena** across the full spectrum of intelligent systems — structured along **ISO 704 / 1087 / 30042** principles, in machine-readable formats. Built to span the systems that matter now: **embodied AI & humanoid robotics** · **robot swarms & multi-agent / agentic systems** · **foundation & world models** · **human–AI collaboration & teaming** · **cognitive legacy** (how knowledge, judgment and thinking transfer across people, systems and generations).
+- **Dialogue and experience:** how to distinguish an observable exchange from an interpretation of feeling understood.
+- **Thought and art:** how an idea changes across AI-generated drafts and creative forms.
+- **Language and meaning:** proposed terms and machine-readable vocabularies under AUGMANITAI / NEOMANITAI.
+- **Agents, robotics and performance:** conceptual descriptions of the people, systems, tools and interventions included in a task.
+- **Knowledge and judgment:** ways to record the reasons, assumptions and limits behind a decision.
 
-When a leading AI lab publicly called for exactly this kind of systematic terminology for human–AI interaction (2025), the independently developed framework already defined thousands of such terms.
+## How to read these materials
 
-## Open science
+The collection includes conceptual proposals, working notes, creative-work catalogues and explanatory articles. A proposed term is not automatically an established scientific category. A robotics topic is not evidence of a deployed robot, and a DOI is not proof of peer review, novelty or effectiveness. Read the status, version and evidence of each source separately. Some records provide public metadata without an open full text.
 
-| Where | Link |
+## Find the sources
+
+| Resource | Link |
 |---|---|
+| Research index | [Public reading paths and sources](https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai/blob/main/research-index/README.md) |
+| Creative-work catalogue | [Hugging Face](https://huggingface.co/datasets/AndreasEhstand/augmanitai-public-works) |
+| Author identifier | [ORCID](https://orcid.org/0009-0006-3773-7796) |
+| LinkedIn | [Andreas Ehstand](https://www.linkedin.com/in/andreas-ehstand/) |
 | Website | https://augmanitai.com |
-| ORCID | 0009-0006-3773-7796 |
-| Reference DOI | https://doi.org/10.5281/zenodo.20161494 |
-| Wikidata | Q138634675 |
-| LinkedIn | in/andreas-ehstand |
 
-Everything is versioned, citable and permanently archived (priority deposits on Zenodo).
+Please check the licence and access conditions of each individual resource before reuse. This profile does not grant additional rights over linked materials.
 
----
-
-*Descriptive, practitioner-grounded methodology · independent, non-commercial research · CC BY-NC-ND 4.0 (data) / Apache-2.0 (code). "Framework", "method" and "compendium" denote author-developed constructs.*
+*AI-generated profile text, updated 1 October 2026. Frameworks and methods described here are author-developed proposals unless the individual source establishes a different status.*
