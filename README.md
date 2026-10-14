@@ -4,6 +4,10 @@
 
 How does a thought change when we develop it in dialogue with AI? What remains when an idea becomes an image, a story or a sequence of instructions? These questions connect my work on interaction, terminology, creative practice and the transfer of knowledge.
 
+
+**DIN registration, October 2026.** Andreas Ehstand is registered with DIN for planned participation in committees on Natural Language Processing and AI trustworthiness. Administrative entry is confirmed; DOCS.DIN access remains pending. The [dated status and four editorial research links](https://huggingface.co/datasets/AndreasEhstand/augmanitai-public-works/blob/main/DIN_STATUS.md) explain the initially described guest admission and the limits of the statement. This is an author-maintained status, not a DIN endorsement or a record of completed standards work. [Machine-readable graph](https://raw.githubusercontent.com/AndreasEhstandLicenseofClarityLOC/augmanitai/main/research-index/din-status.jsonld). *AI-generated profile addition.*
+
+
 ## Start with a question
 
 [24 entry points into my public work](https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai/blob/main/research-index/START_HERE.md) connect concrete questions to papers, explanatory articles and catalogues. German questions are accompanied by English search labels.
